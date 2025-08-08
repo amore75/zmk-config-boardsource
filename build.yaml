@@ -4,5 +4,5 @@
 # For SuperMini NRF52840, use the Seeeduino XIAO NRF52840 board target.
 
 include:
-  - board: seeeduino_xiao_nrf52840
+  - board: xiao_ble
     shield: boardsource_3x4
